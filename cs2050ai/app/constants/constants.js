@@ -1,0 +1,2 @@
+const SECTION_SEPERATOR = '%^&*';
+export { SECTION_SEPERATOR };
